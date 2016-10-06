@@ -1,0 +1,4 @@
+1.        To Fix Auto-Increment
+        Perhaps add:
+        ALTER TABLE YOUR_TABLE AUTO_INCREMENT=YOUR_DESIRED_NUMBER;
+        to delete php file.
